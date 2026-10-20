@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\factorial inversa o algo asi\bin\Debug\net10.0\factorial inversa o algo asi.exe
+C:\Users\diego\source\repos\factorial inversa o algo asi\bin\Debug\net10.0\factorial inversa o algo asi.deps.json
+C:\Users\diego\source\repos\factorial inversa o algo asi\bin\Debug\net10.0\factorial inversa o algo asi.runtimeconfig.json
+C:\Users\diego\source\repos\factorial inversa o algo asi\bin\Debug\net10.0\factorial inversa o algo asi.dll
+C:\Users\diego\source\repos\factorial inversa o algo asi\bin\Debug\net10.0\factorial inversa o algo asi.pdb
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\factorial inversa o algo asi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\factorial inversa o algo asi.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\factorial inversa o algo asi.AssemblyInfo.cs
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\factorial inversa o algo asi.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\factorial inversa o algo asi.dll
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\refint\factorial inversa o algo asi.dll
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\factorial inversa o algo asi.pdb
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\factorial inversa o algo asi.genruntimeconfig.cache
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\ref\factorial inversa o algo asi.dll
+C:\Users\diego\source\repos\factorial inversa o algo asi\obj\Debug\net10.0\factoria.11655B22.Up2Date

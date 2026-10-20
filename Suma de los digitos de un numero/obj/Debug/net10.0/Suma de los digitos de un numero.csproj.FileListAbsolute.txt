@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\Suma de los digitos de un numero\bin\Debug\net10.0\Suma de los digitos de un numero.exe
+C:\Users\diego\source\repos\Suma de los digitos de un numero\bin\Debug\net10.0\Suma de los digitos de un numero.deps.json
+C:\Users\diego\source\repos\Suma de los digitos de un numero\bin\Debug\net10.0\Suma de los digitos de un numero.runtimeconfig.json
+C:\Users\diego\source\repos\Suma de los digitos de un numero\bin\Debug\net10.0\Suma de los digitos de un numero.dll
+C:\Users\diego\source\repos\Suma de los digitos de un numero\bin\Debug\net10.0\Suma de los digitos de un numero.pdb
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\Suma de los digitos de un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\Suma de los digitos de un numero.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\Suma de los digitos de un numero.AssemblyInfo.cs
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\Suma de los digitos de un numero.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\Suma de los digitos de un numero.dll
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\refint\Suma de los digitos de un numero.dll
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\Suma de los digitos de un numero.pdb
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\Suma de los digitos de un numero.genruntimeconfig.cache
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\ref\Suma de los digitos de un numero.dll
+C:\Users\diego\source\repos\Suma de los digitos de un numero\obj\Debug\net10.0\Suma de .F9ED106C.Up2Date
