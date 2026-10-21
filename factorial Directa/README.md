@@ -1,1 +1,1 @@
-# factorial
+# 1.Factorial
