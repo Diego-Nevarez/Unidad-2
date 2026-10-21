@@ -1,0 +1,1 @@
+# factorial inversa o algo asi
