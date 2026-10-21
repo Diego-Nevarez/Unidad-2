@@ -1,1 +1,0 @@
-# potencia de un numero
