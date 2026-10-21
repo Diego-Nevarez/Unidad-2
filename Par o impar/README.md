@@ -1,1 +1,0 @@
-# determinar un numero par o impar
