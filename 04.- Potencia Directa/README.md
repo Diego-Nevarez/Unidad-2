@@ -5,11 +5,11 @@ Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 
-## Programa 02
+## Programa 04
 ### Nombre
-Fibonacci Directa
+Potencia Directa
 ### Descripción
-calcula la sucesión de Fibonacci de forma directa utilizando una solución de proyecto.
+calcula la potencia de un número de forma directa utilizando una solución de proyecto
 ### Lenguaje
 C#
 ### IDE
