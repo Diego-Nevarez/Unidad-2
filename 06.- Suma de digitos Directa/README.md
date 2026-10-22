@@ -5,11 +5,11 @@ Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 
-## Programa 02
+## Programa 06
 ### Nombre
-Fibonacci Directa
+Suma de digitos Directa
 ### Descripción
-calcula la sucesión de Fibonacci de forma directa utilizando una solución de proyecto.
+calcula la suma de los dígitos de un número entero positivo ingresado por el usuario utilizando un método recursivo
 ### Lenguaje
 C#
 ### IDE
