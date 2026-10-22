@@ -5,11 +5,11 @@ Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 
-## Programa 01
+## Programa 02
 ### Nombre
 Fibonacci Directa
 ### Descripción
-calcula el término de la serie de Fibonacci utilizando la fórmula directa en lugar de un bucle o recursividad.
+calcula la sucesión de Fibonacci de forma directa utilizando una solución de proyecto.
 ### Lenguaje
 C#
 ### IDE
