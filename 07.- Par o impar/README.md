@@ -9,7 +9,7 @@ Materia: Estructuras de Datos
 ### Nombre
 Par o impar
 ### Descripción
-
+determina si un número ingresado por el usuario es par o impar utilizando dos métodos que se llaman mutuamente 
 ### Lenguaje
 C#
 ### IDE
