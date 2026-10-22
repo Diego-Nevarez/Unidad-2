@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\02.- Fibonacci Directa\bin\Debug\net10.0\Fibonacci Directa.exe
+C:\Users\diego\source\repos\02.- Fibonacci Directa\bin\Debug\net10.0\Fibonacci Directa.deps.json
+C:\Users\diego\source\repos\02.- Fibonacci Directa\bin\Debug\net10.0\Fibonacci Directa.runtimeconfig.json
+C:\Users\diego\source\repos\02.- Fibonacci Directa\bin\Debug\net10.0\Fibonacci Directa.dll
+C:\Users\diego\source\repos\02.- Fibonacci Directa\bin\Debug\net10.0\Fibonacci Directa.pdb
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacci Directa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacci Directa.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacci Directa.AssemblyInfo.cs
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacci Directa.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacci Directa.sourcelink.json
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacci Directa.dll
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\refint\Fibonacci Directa.dll
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacci Directa.pdb
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacci Directa.genruntimeconfig.cache
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\ref\Fibonacci Directa.dll
+C:\Users\diego\source\repos\02.- Fibonacci Directa\obj\Debug\net10.0\Fibonacc.B38E76B8.Up2Date
