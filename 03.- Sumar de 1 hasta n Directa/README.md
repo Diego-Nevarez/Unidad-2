@@ -5,11 +5,11 @@ Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 
-## Programa 02
+## Programa 03
 ### Nombre
-Fibonacci Directa
+Sumar de 1 hasta n Directa
 ### Descripción
-calcula la sucesión de Fibonacci de forma directa utilizando una solución de proyecto.
+calcula la suma de los números enteros desde 1 hasta n ingresado por el usuario utilizando un método recursivo
 ### Lenguaje
 C#
 ### IDE
