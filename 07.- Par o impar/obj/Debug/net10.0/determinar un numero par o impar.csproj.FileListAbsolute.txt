@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\determinar un numero par o impar\bin\Debug\net10.0\determinar un numero par o impar.exe
+C:\Users\diego\source\repos\determinar un numero par o impar\bin\Debug\net10.0\determinar un numero par o impar.deps.json
+C:\Users\diego\source\repos\determinar un numero par o impar\bin\Debug\net10.0\determinar un numero par o impar.runtimeconfig.json
+C:\Users\diego\source\repos\determinar un numero par o impar\bin\Debug\net10.0\determinar un numero par o impar.dll
+C:\Users\diego\source\repos\determinar un numero par o impar\bin\Debug\net10.0\determinar un numero par o impar.pdb
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\determinar un numero par o impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\determinar un numero par o impar.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\determinar un numero par o impar.AssemblyInfo.cs
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\determinar un numero par o impar.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\determinar un numero par o impar.dll
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\refint\determinar un numero par o impar.dll
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\determinar un numero par o impar.pdb
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\determinar un numero par o impar.genruntimeconfig.cache
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\ref\determinar un numero par o impar.dll
+C:\Users\diego\source\repos\determinar un numero par o impar\obj\Debug\net10.0\determin.5637F44A.Up2Date
