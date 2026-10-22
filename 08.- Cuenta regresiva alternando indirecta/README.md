@@ -9,7 +9,7 @@ Materia: Estructuras de Datos
 ### Nombre
 Cuenta regresiva alternando indirecta
 ### Descripción
-Calcular la suma de los numeros desde 1 hasta n utilizando dos metodos que se llaman mutuamente
+Mostrar una cuenta regresiva desde un numero hasta cero utilizando dos metodos que se llaman entre si
 ### Lenguaje
 C#
 ### IDE
