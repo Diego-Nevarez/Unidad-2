@@ -1,5 +1,11 @@
 # Unidad-2
-todos los codigos a entregar
+# Estructuras de Datos
+## Datos del alumno
+Nombre: Diego Alexander Nevarez Rodriguez
+Número de control: 25410149
+Carrera: Ingeniería en Sistemas Computacionales
+Materia: Estructuras de Datos
+# Todos los codigos a entregar
 01.- Factorial Directa
 02.- Fibonacci Directa
 03.- Sumar de 1 hasta n Directa
