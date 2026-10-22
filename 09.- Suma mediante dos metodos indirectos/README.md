@@ -5,11 +5,11 @@ Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 
-## Programa 02
+## Programa 09
 ### Nombre
-Fibonacci Directa
+Suma mediante dos metodos indirectos
 ### Descripción
-calcula la sucesión de Fibonacci de forma directa utilizando una solución de proyecto.
+Calcular la suma de los numeros desde 1 hasta n utilizando dos metodos que se llaman mutuamente
 ### Lenguaje
 C#
 ### IDE
