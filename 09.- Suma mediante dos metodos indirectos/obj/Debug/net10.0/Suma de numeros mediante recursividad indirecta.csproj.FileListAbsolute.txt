@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\bin\Debug\net10.0\Suma de numeros mediante recursividad indirecta.exe
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\bin\Debug\net10.0\Suma de numeros mediante recursividad indirecta.deps.json
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\bin\Debug\net10.0\Suma de numeros mediante recursividad indirecta.runtimeconfig.json
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\bin\Debug\net10.0\Suma de numeros mediante recursividad indirecta.dll
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\bin\Debug\net10.0\Suma de numeros mediante recursividad indirecta.pdb
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\Suma de numeros mediante recursividad indirecta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\Suma de numeros mediante recursividad indirecta.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\Suma de numeros mediante recursividad indirecta.AssemblyInfo.cs
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\Suma de numeros mediante recursividad indirecta.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\Suma de numeros mediante recursividad indirecta.dll
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\refint\Suma de numeros mediante recursividad indirecta.dll
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\Suma de numeros mediante recursividad indirecta.pdb
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\Suma de numeros mediante recursividad indirecta.genruntimeconfig.cache
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\ref\Suma de numeros mediante recursividad indirecta.dll
+C:\Users\diego\source\repos\Suma de numeros mediante recursividad indirecta\obj\Debug\net10.0\Suma de .47DFA0FF.Up2Date
