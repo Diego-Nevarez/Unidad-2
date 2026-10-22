@@ -5,11 +5,11 @@ Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 
-## Programa 02
+## Programa 08
 ### Nombre
-Fibonacci Directa
+Cuenta regresiva alternando indirecta
 ### Descripción
-calcula la sucesión de Fibonacci de forma directa utilizando una solución de proyecto.
+Mostrar una cuenta regresiva desde un numero hasta cero utilizando dos metodos que se llaman entre si
 ### Lenguaje
 C#
 ### IDE
