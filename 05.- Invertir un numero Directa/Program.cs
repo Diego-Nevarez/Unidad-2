@@ -1,16 +1,16 @@
 using System;
 
-class Program
+class program
 {
-    // Método recursivo para calcular la suma de los números desde 1 hasta n
-    static int Suma(int n)
+    // Método recursivo para invertir un número acumulando el resultado
+    static long invertir(long n, long resultado = 0)
     {
-        // Caso base: si el número es menor o igual a 0, la suma se detiene y regresa 0
-        if (n <= 0)
-            return 0;
+        // Caso base: cuando el número llega a 0, se devuelve el resultado final
+        if (n == 0)
+            return resultado;
 
-        // Paso recursivo: suma el número actual (n) con la suma del número anterior (n - 1)
-        return n + Suma(n - 1);
+        // Paso recursivo: quita el último dígito (n / 10) y lo agrega al acumulador (resultado * 10 + n % 10)
+        return invertir(n / 10, resultado * 10 + n % 10);
     }
 
     // ===============================================
@@ -18,18 +18,18 @@ class Program
     // ===============================================
     static void Main()
     {
-        // Solicitar un número al usuario
-        Console.WriteLine("ingresa un numero");
-        int n = int.Parse(Console.ReadLine());
+        // Solicitar al usuario un número positivo
+        Console.WriteLine("Ingrese un numero positivo");
+        long n = long.Parse(Console.ReadLine());
 
-        // Validar que el número ingresado esté dentro del rango permitido (0 a 10000)
-        if (n < 0 || n > 10000)
+        // Validar que el número no sea negativo
+        if (n < 0)
         {
-            Console.WriteLine("ingresa un numero entre 0 y 10000");
+            Console.WriteLine("El numero debe ser positivo");
             return;
         }
 
-        // Llamar al método recursivo e imprimir el resultado de la suma
-        Console.WriteLine("La suma es :" + Suma(n));
+        // Llamar a la función recursiva e imprimir el número invertido
+        Console.WriteLine("Numero invertido " + invertir(n));
     }
 }
