@@ -5,11 +5,11 @@ Número de control: 25410149
 Carrera: Ingeniería en Sistemas Computacionales
 Materia: Estructuras de Datos
 
-## Programa 02
+## Programa 10
 ### Nombre
-Fibonacci Directa
+Conversion a binario indirecta
 ### Descripción
-calcula la sucesión de Fibonacci de forma directa utilizando una solución de proyecto.
+
 ### Lenguaje
 C#
 ### IDE
