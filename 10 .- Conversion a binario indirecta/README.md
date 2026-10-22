@@ -9,7 +9,7 @@ Materia: Estructuras de Datos
 ### Nombre
 Conversion a binario indirecta
 ### Descripción
-
+Convertir un numero entero no negativo a su representacion binaria usando dos metodos que se llaman mutuamente
 ### Lenguaje
 C#
 ### IDE
